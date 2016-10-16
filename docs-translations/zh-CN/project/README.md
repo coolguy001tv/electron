@@ -6,12 +6,12 @@
 [![Join the Electron Community on Slack](http://atom-slack.herokuapp.com/badge.svg)](http://atom-slack.herokuapp.com/)
 
 Electron框架，让您可使用JavaScript, HTML 及 CSS 编写桌面程序。
-它基于[Node.js](https://nodejs.org/)及[Chromium](http://www.chromium.org)
+它基于[Node.js](https://nodejs.org/)及[Chromium](http://www.chromium.org)。
 [Atom editor](https://github.com/atom/atom)以及很多其他的[apps](http://electron.atom.io/apps)就是使用Electron编写的。
 
 请关注Twitter [@ElectronJS](https://twitter.com/electronjs) 以获得重要通告。
 
-这个项目将坚持贡献者盟约 [code of conduct](CODE_OF_CONDUCT.md).
+这个项目将坚持贡献者盟约 [code of conduct](https://github.com/electron/electron/blob/master/CODE_OF_CONDUCT.md).
 我们希望贡献者能遵守贡献者盟约，如果有任何不能接受的行为被发现，请报告至electron@github.com(PS:请用英语)
 
 ## 下载
